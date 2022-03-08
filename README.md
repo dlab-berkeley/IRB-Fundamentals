@@ -1,6 +1,6 @@
 # D-Lab's IRB Fundamentals Workshop
 
-This repository is a placeholder for D-Lab's IRB Fundamentals workshop. To access the materials, please click on this link.
+This repository is a placeholder for D-Lab's IRB Fundamentals workshop. To access the materials, please click on this [link](https://drive.google.com/drive/folders/1aDcTRXLQDRVViKYKA10-4gmmymRyXlzN).
 
 ## Workshop Goals
 
