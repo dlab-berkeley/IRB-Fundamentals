@@ -4,11 +4,19 @@ This repository is a placeholder for D-Lab's IRB Fundamentals workshop. To acces
 
 ## Workshop Goals
 
-TODO
+Are you starting a research project at UC Berkeley that involves human subjects? If so, one of
+the first steps you will need to take is getting IRB approval. Numerous questions can come to
+mind when first negotiating getting a project approved. When should you apply? Does your
+project require review, and if so, what kind? This course will walk you through the process of
+getting IRB approval for your project. After this course, you will approach getting your project
+approved with confidence that will save you time and avoid potential delays.
+Specifically, we will:
 
-# Additional Resources
-
-TODO
+- Describe the origins of the institutional review board and its purpose.
+- Introduce you to IRB at UC Berkeley.
+- Walk through the different types of protocols to determine the best one for your project.
+- Create a protocol and explain in-depth the different portions that make up your eprotocol.
+- Discuss the review and amendment process.
 
 # About the UC Berkeley D-Lab
 
