@@ -1,6 +1,6 @@
 # D-Lab's IRB Fundamentals Workshop
 
-![https://img.shields.io/badge/D--Lab-Workshop%20Materials-blue](https://drive.google.com/drive/folders/1aDcTRXLQDRVViKYKA10-4gmmymRyXlzN)
+[![Workshop Materials](https://img.shields.io/badge/D--Lab-Workshop%20Materials-blue)](https://drive.google.com/drive/folders/1aDcTRXLQDRVViKYKA10-4gmmymRyXlzN)
 
 This repository is a placeholder for D-Lab's IRB Fundamentals workshop. To access the materials, please click on this [link](https://drive.google.com/drive/folders/1aDcTRXLQDRVViKYKA10-4gmmymRyXlzN).
 
