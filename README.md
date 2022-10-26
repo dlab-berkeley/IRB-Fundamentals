@@ -3,7 +3,7 @@
 [![Workshop Materials](https://img.shields.io/badge/D--Lab-Workshop%20Materials-blue)](https://drive.google.com/drive/folders/1E0nqVOhIt8Ay0ncUSnvP5xPZiPsA8k9j?usp=sharing)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-This repository is a placeholder for D-Lab's IRB Fundamentals workshop. To access the materials, please click on this [link](https://drive.google.com/drive/folders/1aDcTRXLQDRVViKYKA10-4gmmymRyXlzN).
+This repository is a placeholder for D-Lab's IRB Fundamentals workshop. To access the materials, please click on this [link](https://drive.google.com/drive/folders/1E0nqVOhIt8Ay0ncUSnvP5xPZiPsA8k9j?usp=sharing).
 
 ## Workshop Goals
 
