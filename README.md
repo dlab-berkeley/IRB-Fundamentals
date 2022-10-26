@@ -1,19 +1,22 @@
-# D-Lab's IRB Fundamentals Workshop
+# D-Lab IRB Fundamentals Workshop
 
-[![Workshop Materials](https://img.shields.io/badge/D--Lab-Workshop%20Materials-blue)](https://drive.google.com/drive/folders/1aDcTRXLQDRVViKYKA10-4gmmymRyXlzN)
+[![Workshop Materials](https://img.shields.io/badge/D--Lab-Workshop%20Materials-blue)](https://drive.google.com/drive/folders/1E0nqVOhIt8Ay0ncUSnvP5xPZiPsA8k9j?usp=sharing)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 This repository is a placeholder for D-Lab's IRB Fundamentals workshop. To access the materials, please click on this [link](https://drive.google.com/drive/folders/1aDcTRXLQDRVViKYKA10-4gmmymRyXlzN).
 
 ## Workshop Goals
 
-Are you starting a research project at UC Berkeley that involves human subjects? If so, one of
-the first steps you will need to take is getting IRB approval. Numerous questions can come to
-mind when first negotiating getting a project approved. When should you apply? Does your
-project require review, and if so, what kind? This course will walk you through the process of
-getting IRB approval for your project. After this course, you will approach getting your project
-approved with confidence that will save you time and avoid potential delays.
-Specifically, we will:
+Are you starting a research project at UC Berkeley that involves human subjects?
+If so, one of the first steps you will need to take is getting IRB approval.
+Numerous questions can come to mind when first negotiating getting a project
+approved. When should you apply? Does your project require review, and if so,
+what kind?
+
+This course will walk you through the process of getting IRB approval for your
+project. After this course, you will approach getting your project approved with
+confidence that will save you time and avoid potential delays. Specifically, we
+will:
 
 - Describe the origins of the institutional review board and its purpose.
 - Introduce you to IRB at UC Berkeley.
