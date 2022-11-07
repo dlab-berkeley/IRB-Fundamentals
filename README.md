@@ -3,7 +3,11 @@
 [![Workshop Materials](https://img.shields.io/badge/D--Lab-Workshop%20Materials-blue)](https://drive.google.com/drive/folders/1E0nqVOhIt8Ay0ncUSnvP5xPZiPsA8k9j?usp=sharing)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-This repository is a placeholder for D-Lab's IRB Fundamentals workshop. To access the materials, please click on this [link](https://drive.google.com/drive/folders/1E0nqVOhIt8Ay0ncUSnvP5xPZiPsA8k9j?usp=sharing).
+This repository is a placeholder for D-Lab's IRB Fundamentals workshop. See the following links to access the materials:
+
+* Access the folder containing all materials at this [link](https://drive.google.com/drive/folders/1E0nqVOhIt8Ay0ncUSnvP5xPZiPsA8k9j?usp=sharing).
+* Access a copy of the Google Slides at this [link](https://docs.google.com/presentation/d/1qPU6OAYbuR1c4EjlOS_XodjWkye49XHr7aF8ngjZO_I/edit?usp=sharing).
+* Access a PDF of the slides at this [link](https://drive.google.com/file/d/1lzFXSIL0XC_FsGl34Px6VxyT2EmRN3at/view?usp=share_link).
 
 ## Workshop Goals
 
@@ -21,7 +25,7 @@ will:
 - Describe the origins of the institutional review board and its purpose.
 - Introduce you to IRB at UC Berkeley.
 - Walk through the different types of protocols to determine the best one for your project.
-- Create a protocol and explain in-depth the different portions that make up your eprotocol.
+- Create a protocol and explain in-depth the different portions that make up your protocol.
 - Discuss the review and amendment process.
 
 # About the UC Berkeley D-Lab
@@ -33,3 +37,4 @@ Visit the [D-Lab homepage](http://dlab.berkeley.edu/) to learn more about us. Vi
 # Contributors
 
 * Melanie Phillips
+* Vanessa Navarro Rodriguez
