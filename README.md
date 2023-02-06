@@ -5,9 +5,9 @@
 
 This repository is a placeholder for D-Lab's IRB Fundamentals workshop. See the following links to access the materials:
 
-* Access the folder containing all materials at this [link](https://drive.google.com/drive/folders/1E0nqVOhIt8Ay0ncUSnvP5xPZiPsA8k9j?usp=sharing).
-* Access a copy of the Google Slides at this [link](https://docs.google.com/presentation/d/1qPU6OAYbuR1c4EjlOS_XodjWkye49XHr7aF8ngjZO_I/edit?usp=sharing).
-* Access a PDF of the slides at this [link](https://drive.google.com/file/d/1lzFXSIL0XC_FsGl34Px6VxyT2EmRN3at/view?usp=share_link).
+* [Workshop materials folder](https://drive.google.com/drive/folders/1E0nqVOhIt8Ay0ncUSnvP5xPZiPsA8k9j?usp=sharing).
+* [Google Slides](https://docs.google.com/presentation/d/1qPU6OAYbuR1c4EjlOS_XodjWkye49XHr7aF8ngjZO_I/edit?usp=sharing).
+* [PDF of slides](https://drive.google.com/file/d/1lzFXSIL0XC_FsGl34Px6VxyT2EmRN3at/view?usp=share_link).
 
 ## Workshop Goals
 
