@@ -9,6 +9,8 @@ This repository is a placeholder for D-Lab's IRB Fundamentals workshop. See the 
 * [Google Slides](https://docs.google.com/presentation/d/18YBUJo4T4e2ItvBniKeGmPAoFWZDrynay2WmUwXPBZ0/edit?usp=sharing).
 * [PDF of slides](https://drive.google.com/file/d/1SzD8WZPDU0NOLAM9yDT2_a4-FPP8rNNh/view?usp=share_link).
 
+Check out D-Lab’s [Workshop Catalog](https://dlab-berkeley.github.io/dlab-workshops/) to browse all workshops, see what’s running now, and review prerequisites.
+
 ## Workshop Goals
 
 Are you starting a research project at UC Berkeley that involves human subjects?
